@@ -27,16 +27,27 @@ My primary research interests are centered around advanced multimodal learning a
 
 ## 🎉 News
 
-* 2025.06: 🎉 One highlight paper accepted at **CVPR'25** (Highlight Presentation)!
+* 2025.06: 🎉 One <font color=Red><strong>Highlight</strong></font> paper accepted at **CVPR'25**!
 * 2025.06: 🎉 One additional paper accepted at **CVPR'25**!
-* 2024.07: 🎉 Oral presentation at **AAAI'24**.
+* 2024.07: 🎉 <font color=Red><strong>Oral</strong></font> presentation at **AAAI'24**.
 * 2023.12: 🎉 Awarded Top Reviewer at **NeurIPS 2024**!
 * 2023.09: 🎉 Began internship at Microsoft's DKI team.
 * 2021.09: 🎉 Started Ph.D. studies at UCAS.
+* 2021.10: 🎉 Co-author journal paper published in **IEEE TWC (IF: 9.6)**.
+* 2020.09: 🎉 Co-author journal paper published in **Sustainable Cities and Society (IF: 11.0)**.
+
 
 ## 🌟 Academic Service
 
-* Reviewer for major conferences: CVPR, ICCV, NeurIPS, ICLR, ICML, ICME.
-* Reviewer for journals: IEEE TCSVT, TMLR.
+### Conference Committee Member
+
+* TPC Member / Reviewer for **CVPR'25**, **ICCV'25**, **ICML'25**, **ICME'25**
+* TPC Member / Reviewer for **ICLR'24**, **NeurIPS'24** (Top Reviewer Award)
+* TPC Member / Reviewer for **ICME'23**
+
+### Journal Reviewer
+
+* Reviewer for **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**
+* Reviewer for **Transactions on Machine Learning Research (TMLR)**
 
 Always excited about new ideas and discussions!
