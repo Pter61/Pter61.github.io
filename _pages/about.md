@@ -101,10 +101,6 @@ Based on your CV, here is your formatted **📝 Publications** section using the
 </dl>
 <br>
 
----
-
-Let me know if you'd like these adapted to another layout (e.g., Markdown-based homepage).
-
 
 ## 🌟 Academic Service
 
