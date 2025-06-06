@@ -110,7 +110,7 @@ Let me know if you'd like these adapted to another layout (e.g., Markdown-based 
 
 ### Conference Committee Member
 
-* TPC Member / Reviewer for **CVPR'25**, **ICCV'25**, **ICML'25**, **ICME'25**
+* TPC Member / Reviewer for **CVPR'25**, **ICCV'25**, **ICML'25**, **ICME'25**, **ACM MM'25**, **NeurIPS'25**
 * TPC Member / Reviewer for **ICLR'24**, **NeurIPS'24** (Top Reviewer Award)
 * TPC Member / Reviewer for **ICME'23**
 
