@@ -37,6 +37,75 @@ My primary research interests are centered around advanced multimodal learning a
 * 2020.09: 🎉 Co-author journal paper published in **Sustainable Cities and Society (IF: 11.0)**.
 
 
+Based on your CV, here is your formatted **📝 Publications** section using the requested HTML-like structure, **excluding arXiv papers** and with appropriate links added where available:
+
+---
+
+## 📝 Publications
+
+<dl>
+<dt><img align="left" width="350" height="250" hspace="0" wspace="0" src="../images/CVPR2025_Highlight.png" style="margin-right: 20px;"></dt>
+<dd><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Reason-before-Retrieve_One-Stage_Reflective_Chain-of-Thoughts_for_Training-Free_Zero-Shot_Composed_Image_Retrieval_CVPR_2025_paper.html"><strong>Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval</strong></a></dd>
+<dd><strong>Yuanmin Tang</strong>, Jue Zhang, Xiaoting Qin, Jing Yu, Gaopeng Gou, Gang Xiong, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Wu</dd>
+<dd>Conference on Computer Vision and Pattern Recognition (CVPR'25), <mark>Highlight</mark>, 2025, CCF-A</dd>
+</dl>
+<br><br><br>
+
+---
+
+<dl>
+<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/CVPR2025.png" style="margin-right: 20px;"></dt>
+<dd><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Missing_Target-Relevant_Information_Prediction_with_World_Model_for_Accurate_Zero-Shot_CVPR_2025_paper.html"><strong>Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval</strong></a></dd>
+<dd><strong>Yuanmin Tang</strong>, Jing Yu, Keke Gai, Jiamin Zhuang, Gang Xiong, Gaopeng Gou, Qi Wu</dd>
+<dd>Conference on Computer Vision and Pattern Recognition (CVPR'25), 2025, CCF-A</dd>
+</dl>
+<br>
+
+---
+
+<dl>
+<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/AAAI2024.png" style="margin-right: 20px;"></dt>
+<dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28281"><strong>Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval</strong></a></dd>
+<dd><strong>Yuanmin Tang</strong>, Jing Yu, Keke Gai, Jiamin Zhuang, Gang Xiong, Yue Hu, Qi Wu</dd>
+<dd>The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24), <mark>Oral</mark>, 2024, CCF-A</dd>
+</dl>
+<br>
+
+---
+
+<dl>
+<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/ACMMM.png" style="margin-right: 20px;"></dt>
+<dd><a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612092"><strong>Visual-Semantic Decomposition and Partial Alignment for Document-based Zero-Shot Learning</strong></a></dd>
+<dd>Xiangyan Qu, Jing Yu, Keke Gai, Jiamin Zhuang, <strong>Yuanmin Tang</strong>, Gang Xiong, Gaopeng Gou, Qi Wu</dd>
+<dd>ACM International Conference on Multimedia (ACM MM), 2024, CCF-A</dd>
+</dl>
+<br>
+
+---
+
+<dl>
+<dt><img align="left" width="350" height="160" hspace="0" wspace="0" src="../images/TWC.png" style="margin-right: 20px;"></dt>
+<dd><a href="https://ieeexplore.ieee.org/document/9445011"><strong>Dynamic Aggregation for Heterogeneous Quantization in Federated Learning</strong></a></dd>
+<dd>Shengbo Chen, Cong Shen, Lanxue Zhang, <strong>Yuanmin Tang</strong></dd>
+<dd>IEEE Transactions on Wireless Communications (TWC), 2021, IF=9.603</dd>
+</dl>
+<br>
+
+---
+
+<dl>
+<dt><img align="left" width="350" height="160" hspace="0" wspace="0" src="../images/SCS.png" style="margin-right: 20px;"></dt>
+<dd><a href="https://www.sciencedirect.com/science/article/pii/S2210670720307745"><strong>Indoor Temperature Monitoring Using Wireless Sensor Networks: A SMAC Application in Smart Cities</strong></a></dd>
+<dd>Shengbo Chen, Lanxue Zhang, <strong>Yuanmin Tang</strong>, Cong Shen, Roshan Kumar, Keping Yu, Usman Tariq, Ali Kashif Bashir</dd>
+<dd>Sustainable Cities and Society, 2020, IF=11.033</dd>
+</dl>
+<br>
+
+---
+
+Let me know if you'd like these adapted to another layout (e.g., Markdown-based homepage).
+
+
 ## 🌟 Academic Service
 
 ### Conference Committee Member
