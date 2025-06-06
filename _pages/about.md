@@ -28,10 +28,11 @@ My primary research interests are centered around advanced multimodal learning a
 ## 🎉 News
 
 * 2025.06: 🎉 Two paper accepted at **CVPR'25**, including one <font color=Red><strong>Highlight</strong></font> presentation!
-* 2024.12: 🎉 Awarded Top Reviewer at **NeurIPS 2024**!
+* One paper (co-author) accepted to **ACM MM 2025**! 
+* 2024.12: 🏆 Awarded Top Reviewer at **NeurIPS 2024**!
 * 2024.10: 🎉 Started internship at Microsoft DKI (supervisor Dr. Jue Zhang). 
 * 2024.08: 🎉 <font color=Red><strong>Oral</strong></font> presentation at **AAAI'24**.
-* 2021.09: 🎉 Started Ph.D. studies at UCAS.
+* 2021.09: 🎓 Started Ph.D. journey at UCAS.
 * 2021.10: 🎉 Co-author journal paper published in **IEEE TWC (IF: 9.6)**.
 * 2020.09: 🎉 Co-author journal paper published in **Sustainable Cities and Society (IF: 11.0)**.
 
