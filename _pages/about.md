@@ -37,7 +37,7 @@ My primary research interests are centered around advanced multimodal learning a
 * 2020.09: 🎉 Co-author journal paper published in **Sustainable Cities and Society (IF: 11.0)**.
 
 
-## 📝 Publications
+## 📝 Selected Publications
 
 <dl>
 <dt><img align="left" width="350" height="250" hspace="0" wspace="0" src="../images/OSrCIR.png" style="margin-right: 20px;"></dt>
@@ -70,32 +70,13 @@ My primary research interests are centered around advanced multimodal learning a
 ---
 
 <dl>
-<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/ACMMM.png" style="margin-right: 20px;"></dt>
-<dd><a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612092"><strong>Visual-Semantic Decomposition and Partial Alignment for Document-based Zero-Shot Learning</strong></a></dd>
+<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/ACMM.png" style="margin-right: 20px;"></dt>
+<dd><a href="https://dl.acm.org/doi/abs/10.1145/3664647.3680829"><strong>Visual-Semantic Decomposition and Partial Alignment for Document-based Zero-Shot Learning</strong></a></dd>
 <dd>Xiangyan Qu, Jing Yu, Keke Gai, Jiamin Zhuang, <strong>Yuanmin Tang</strong>, Gang Xiong, Gaopeng Gou, Qi Wu</dd>
 <dd>ACM International Conference on Multimedia (ACM MM), 2024, CCF-A</dd>
 </dl>
 <br>
 
----
-
-<dl>
-<dt><img align="left" width="350" height="160" hspace="0" wspace="0" src="../images/TWC.png" style="margin-right: 20px;"></dt>
-<dd><a href="https://ieeexplore.ieee.org/abstract/document/9425020"><strong>Dynamic Aggregation for Heterogeneous Quantization in Federated Learning</strong></a></dd>
-<dd>Shengbo Chen, Cong Shen, Lanxue Zhang, <strong>Yuanmin Tang</strong></dd>
-<dd>IEEE Transactions on Wireless Communications (TWC), 2021, IF=9.603</dd>
-</dl>
-<br>
-
----
-
-<dl>
-<dt><img align="left" width="350" height="160" hspace="0" wspace="0" src="../images/SCS.png" style="margin-right: 20px;"></dt>
-<dd><a href="https://www.sciencedirect.com/science/article/pii/S2210670720307745"><strong>Indoor Temperature Monitoring Using Wireless Sensor Networks: A SMAC Application in Smart Cities</strong></a></dd>
-<dd>Shengbo Chen, Lanxue Zhang, <strong>Yuanmin Tang</strong>, Cong Shen, Roshan Kumar, Keping Yu, Usman Tariq, Ali Kashif Bashir</dd>
-<dd>Sustainable Cities and Society, 2020, IF=11.033</dd>
-</dl>
-<br>
 
 
 ## 🌟 Academic Service
