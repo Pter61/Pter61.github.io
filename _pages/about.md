@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Hi, my name is Yuanmin Tang (Chinese: 唐元敏), a Ph.D. Candidate (4<sup>th</sup> year student, 2021-2026) at the University of Chinese Academy of Sciences (UCAS), Beijing, China, advised by [Dr. Jing Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=P75F9-QAAAAJ). Currently, I am also an intern in the Data, Knowledge, Intelligence (DKI) team at Microsoft, previously part of Microsoft Research Asia, supervised by [Dr. Jue Zhang](https://www.microsoft.com/en-us/research/people/juezhang/). I also closely collaborate with [Prof. Qi Wu](https://www.adelaide.edu.au/directory/qi.wu) from the University of Adelaide.
+Hi, my name is Yuanmin Tang (Chinese: 唐源民), a Ph.D. Candidate (4<sup>th</sup> year student, 2021-2026) at the University of Chinese Academy of Sciences (UCAS), Beijing, China, advised by [Dr. Jing Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=P75F9-QAAAAJ). Currently, I am also an intern in the Data, Knowledge, Intelligence (DKI) team at Microsoft, previously part of Microsoft Research Asia, supervised by [Dr. Jue Zhang](https://www.microsoft.com/en-us/research/people/juezhang/). I also closely collaborate with [Prof. Qi Wu](https://www.adelaide.edu.au/directory/qi.wu) from the University of Adelaide.
 
 **<ins>🔥🔜: <font color=Blue>I am actively seeking opportunities as a Research Intern or Research Assistant, aiming toward future roles such as Postdoctoral Researcher upon graduation!</font></ins>**
 

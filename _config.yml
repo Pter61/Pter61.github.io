@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Homepage - Yuanmin Tang"
 title_separator          : "-"
 name                     : &name "Yuanmin Tang"
 description              : &description "Ph.D. Candidate  (2021.09 - 2026.06)"
@@ -23,7 +23,7 @@ repository               : "Pter61/Pter61.github.io"
 author:
   # Biographic information
   avatar           : "Yuanmin.png"
-  name             : "Yuanmin Tang (唐源民)"
+  name             : "Ph.D. Candidate  (2021.09 - 2026.06)"
   pronouns         : # "he/his"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
