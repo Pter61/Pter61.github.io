@@ -37,10 +37,6 @@ My primary research interests are centered around advanced multimodal learning a
 * 2020.09: 🎉 Co-author journal paper published in **Sustainable Cities and Society (IF: 11.0)**.
 
 
-Based on your CV, here is your formatted **📝 Publications** section using the requested HTML-like structure, **excluding arXiv papers** and with appropriate links added where available:
-
----
-
 ## 📝 Publications
 
 <dl>
