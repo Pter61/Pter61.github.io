@@ -81,7 +81,7 @@ My primary research interests are centered around advanced multimodal learning a
 
 <dl>
 <dt><img align="left" width="350" height="160" hspace="0" wspace="0" src="../images/TWC.png" style="margin-right: 20px;"></dt>
-<dd><a href="https://ieeexplore.ieee.org/document/9445011"><strong>Dynamic Aggregation for Heterogeneous Quantization in Federated Learning</strong></a></dd>
+<dd><a href="https://ieeexplore.ieee.org/abstract/document/9425020"><strong>Dynamic Aggregation for Heterogeneous Quantization in Federated Learning</strong></a></dd>
 <dd>Shengbo Chen, Cong Shen, Lanxue Zhang, <strong>Yuanmin Tang</strong></dd>
 <dd>IEEE Transactions on Wireless Communications (TWC), 2021, IF=9.603</dd>
 </dl>
