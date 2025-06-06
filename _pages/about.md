@@ -40,7 +40,7 @@ My primary research interests are centered around advanced multimodal learning a
 ## 📝 Publications
 
 <dl>
-<dt><img align="left" width="350" height="250" hspace="0" wspace="0" src="../images/CVPR2025_Highlight.png" style="margin-right: 20px;"></dt>
+<dt><img align="left" width="350" height="250" hspace="0" wspace="0" src="../images/OSrCIR.png" style="margin-right: 20px;"></dt>
 <dd><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Reason-before-Retrieve_One-Stage_Reflective_Chain-of-Thoughts_for_Training-Free_Zero-Shot_Composed_Image_Retrieval_CVPR_2025_paper.html"><strong>Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval</strong></a></dd>
 <dd><strong>Yuanmin Tang</strong>, Jue Zhang, Xiaoting Qin, Jing Yu, Gaopeng Gou, Gang Xiong, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Wu</dd>
 <dd>Conference on Computer Vision and Pattern Recognition (CVPR'25), <mark>Highlight</mark>, 2025, CCF-A</dd>
@@ -50,7 +50,7 @@ My primary research interests are centered around advanced multimodal learning a
 ---
 
 <dl>
-<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/CVPR2025.png" style="margin-right: 20px;"></dt>
+<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/PrediCIR.png" style="margin-right: 20px;"></dt>
 <dd><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Missing_Target-Relevant_Information_Prediction_with_World_Model_for_Accurate_Zero-Shot_CVPR_2025_paper.html"><strong>Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval</strong></a></dd>
 <dd><strong>Yuanmin Tang</strong>, Jing Yu, Keke Gai, Jiamin Zhuang, Gang Xiong, Gaopeng Gou, Qi Wu</dd>
 <dd>Conference on Computer Vision and Pattern Recognition (CVPR'25), 2025, CCF-A</dd>
@@ -60,7 +60,7 @@ My primary research interests are centered around advanced multimodal learning a
 ---
 
 <dl>
-<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/AAAI2024.png" style="margin-right: 20px;"></dt>
+<dt><img align="left" width="350" height="150" hspace="0" wspace="0" src="../images/ContextI2W.png" style="margin-right: 20px;"></dt>
 <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28281"><strong>Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval</strong></a></dd>
 <dd><strong>Yuanmin Tang</strong>, Jing Yu, Keke Gai, Jiamin Zhuang, Gang Xiong, Yue Hu, Qi Wu</dd>
 <dd>The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24), <mark>Oral</mark>, 2024, CCF-A</dd>
