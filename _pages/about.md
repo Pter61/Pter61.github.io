@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Hi, my name is Yuanmin Tang (Chinese: 唐源民), a Ph.D. Candidate (4<sup>th</sup> year student, 2021-2026) at the University of Chinese Academy of Sciences (UCAS), Beijing, China, advised by [Dr. Jing Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=P75F9-QAAAAJ). Currently, I am also an intern in the Data, Knowledge, Intelligence (DKI) team at Microsoft, previously part of Microsoft Research Asia, supervised by [Dr. Jue Zhang](https://www.microsoft.com/en-us/research/people/juezhang/). I also closely collaborate with [Prof. Qi Wu](https://www.adelaide.edu.au/directory/qi.wu) from the University of Adelaide.
+Hi, my name is Yuanmin Tang (Chinese: 唐源民), a Ph.D. Candidate (4<sup>th</sup> year student, 2021-2026) at the University of Chinese Academy of Sciences (UCAS), Beijing, China, advised by [Dr. Jing Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=P75F9-QAAAAJ). Currently, I am also an intern in the Data, Knowledge, Intelligence (DKI) team at Microsoft, previously part of Microsoft Research Asia, supervised by [Dr. Jue Zhang](https://www.microsoft.com/en-us/research/people/juezhang/). I also closely collaborate with [Prof. Qi Wu](https://www.adelaide.edu.au/directory/qi.wu) from the University of Adelaide and [Prof. Massimiliano Mancini](https://mancinimassimiliano.github.io/).
 
 [//]: # (**<ins>🔥🔜: <font color=Blue>I am actively seeking opportunities as a Research Intern or Research Assistant, aiming toward future roles such as Postdoctoral Researcher upon graduation!</font></ins>**)
 
@@ -26,7 +26,7 @@ My primary research interests are centered around advanced multimodal learning a
 **PS: If you're interested in collaboration or just want to chat, feel free to reach out via e-mail at [tangyuanmin@iie.ac.cn](mailto:tangyuanmin@iie.ac.cn), or via wechat at Peter20200618.**
 
 ## 🎉 News
-* 2025.10: 🎉 Two paper accepted at **AAAI'26**, including one corresponding author!
+* 2025.10: 🎉 Two paper accepted at **AAAI'26**, including one <font color=Red><strong>corresponding</strong></font> author!
 * 2025.06: 🎉 Two paper accepted at **CVPR'25**, including one <font color=Red><strong>Highlight</strong></font> presentation!
 * 2025.06: 🎉 One co-author paper accepted to **ACM MM 2024**! 
 * 2024.12: 🏆 Awarded Top Reviewer at **NeurIPS 2024**!
@@ -88,7 +88,7 @@ My primary research interests are centered around advanced multimodal learning a
 * TPC Member / Reviewer for **ICME'23**
 
 ### Journal Reviewer
-
+* Reviewer for **IEEE Transactions on Image Processing (TIP)**
 * Reviewer for **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**
 * Reviewer for **Transactions on Machine Learning Research (TMLR)**
 
