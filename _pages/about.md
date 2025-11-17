@@ -83,7 +83,7 @@ My primary research interests are centered around advanced multimodal learning a
 
 ### Conference Committee Member
 
-* TPC Member / Reviewer for **CVPR'25**, **ICCV'25**, **ICML'25**, **ICME'25**, **ACM MM'25**, **NeurIPS'25**
+* TPC Member / Reviewer for **CVPR'25**, **ICCV'25**, **ICML'25**, **ICME'25**, **ACM MM'25**, **NeurIPS'25**, **AAAI'26**, **ICLR'26**, **ICASSP'26**, **CVPR'26**
 * TPC Member / Reviewer for **ICLR'24**, **NeurIPS'24** (Top Reviewer Award)
 * TPC Member / Reviewer for **ICME'23**
 
